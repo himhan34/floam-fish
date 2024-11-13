@@ -1,6 +1,7 @@
 // FLOAM의 작성자: Wang Han
 // 이메일: wh200720041@gmail.com
 // 홈페이지: https://wanghan.pro
+
 #ifndef _ODOM_ESTIMATION_CLASS_H_  // _ODOM_ESTIMATION_CLASS_H_가 정의되지 않은 경우에만 이 코드를 실행합니다.
 #define _ODOM_ESTIMATION_CLASS_H_  // _ODOM_ESTIMATION_CLASS_H_를 정의하여 중복 포함을 방지합니다.
 
